@@ -23,8 +23,9 @@
     ],
     "vars": {
         "AUTH_ENABLED": "true",
-        "AUTH_USERNAME": "linuxdo",
-        "AUTH_PASSWORD": "linuxdo",
-        "AUTH_SECRET": "linuxdo"
+        "AUTH_USERNAME": "onlyforice",
+        "AUTH_PASSWORD": "12345Qaz56789",
+        "AUTH_SECRET": "$2y$10$rjU/bicrYrnJMJKHejbtAeGBUpichaMkadLua6/ACm1rkxXkZIs8i"
     }
 }
+
